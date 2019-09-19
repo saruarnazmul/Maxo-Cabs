@@ -1,0 +1,369 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  /* header start */
+.nav-custom{
+    border: 1px solid #048BDD !important;
+}
+.nav-custom:hover{
+    border: 1px solid #048BDD !important;
+}
+.menu ul li a {
+    text-align: end;
+    padding: 5px 0;
+}
+   /* header End */
+     .common h3 {
+    font-size: 18px;
+    line-height: 0px;
+
+}
+
+/* banner */
+.form-control {
+    padding: 0px;
+}
+.banner {
+    padding: 20px 0;
+    background-color: #E5E5E5;
+}
+
+
+/* banner */
+   /* branding start */
+.content {
+    text-align: center;
+    margin-top: 20px;
+}
+/* branding end */
+   /* categories start */
+.btn-vehicale {
+    width: 135px;
+    height: 55px;
+    padding: 5px 10px;
+
+}
+/* categories end */
+/* slder start */
+.slider {
+    padding: 40px 0;
+}
+/* slder end */
+/* about us */
+.about{
+    padding: 60px 0;
+}
+.about h3 {
+    margin-left: 0px;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+}
+.about-top {
+    padding: 0;
+}
+.about-content {
+    padding: 20px 36px 0 41px;
+    text-align: center;
+}
+.about-img{
+    height: 200px;
+}
+
+
+/* about us */
+/* question start */
+.free-content {
+    font-size: 20px;
+    text-align: center;
+}
+.num-content{
+    text-align: center;
+}
+.num-content p {
+    font-size: 18px;
+}
+.qus-button{
+    text-align: center;
+    margin: 15px 0;
+}
+.btn-qus {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+/* qus end */
+/* footer start */
+.social{
+    margin: 20px 0;
+    text-align: center;
+}
+.social-one{
+    text-align: center;
+}
+.social-circle li a {
+    width: 40px;
+    height: 40px;
+}
+.social-circle li i {
+    margin: -5px 0;
+}
+/* footer end */
+/* reservation css */
+.reservation {
+    padding: 0 0 70px 0;
+}
+.reservation .common h3 {
+    padding: 25px;
+}
+
+.reg-box {
+    padding: 30px 0px;
+}
+.small-custom1{
+    margin-left: -15px;
+}
+
+/* reservation css */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+.nav-custom{
+    border: 1px solid #048BDD !important;
+}
+.nav-custom:hover{
+    border: 1px solid #048BDD !important;
+}
+.menu ul li a {
+    text-align: end;
+    padding: 5px 0;
+}
+   /* header End */
+   .common h3 {
+    font-size: 28px;
+    line-height: 40px;
+
+}
+   /* brading start */
+.content {
+    text-align: center;
+    margin-top: 20px;
+}
+.sm-custom .one, .sm-custom i{
+    color: #fff !important;
+}
+.menu ul li a i:hover{
+    color: #fff !important;
+}
+/* brading end */
+   /* categories start */
+.btn-vehicale {
+    width: 135px;
+    height: 55px;
+    padding: 5px 10px;
+
+}
+/* categories end */
+/* about us */
+.about-top {
+    padding: 60px 0;
+}
+.about h3 {
+    margin-left: 0px;
+    text-align: center;
+}
+.about-content {
+    padding: 20px 36px 0 36px;
+    text-align: center;
+}
+.about-img{
+    height: 200px;
+}
+/* about us */
+/* question start */
+.free-content {
+    font-size: 20px;
+    text-align: center;
+}
+.num-content{
+    text-align: center;
+}
+.num-content p {
+    font-size: 18px;
+}
+.qus-button{
+    text-align: center;
+    margin: 15px 0;
+}
+.btn-qus {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+/* qus end */
+/* footer start */
+.social{
+    margin: 20px 0;
+    text-align: center;
+}
+.social-one{
+    text-align: center;
+}
+.social-circle li a {
+    width: 40px;
+    height: 40px;
+}
+.social-circle li i {
+    margin: -5px 0;
+}
+/* footer end */
+/* reservation css */
+.reservation {
+    padding: 0 0 70px 0;
+}
+.qus-button1, .small-custom1 {
+    margin-left: -60px;
+}
+
+/* reservation css */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /* header start */
+.nav-custom{
+    border: 1px solid #09070a52 !important;
+}
+.nav-custom:hover{
+    border: 1px solid #09070a52 !important;
+}
+.menu ul li a {
+    text-align: end;
+    padding: 5px 0;
+}
+   /* header End */
+.card{
+    margin-top: 15px;
+ }  
+ .card-body{
+    width: 100% !important;
+ }
+ /* description start */
+
+/* branding start */
+.sm-custom{
+    color: #fff !important;
+    font-weight: 700;
+}
+.menu ul li a i:hover{
+    color: #fff !important;
+}
+.content {
+    margin-left: 40px;
+}
+/* branding end */
+   /* description end */
+   /* categories start */
+.btn-vehicale {
+    width: 135px;
+    height: 55px;
+    padding: 5px 10px;
+
+}
+/* categories end */
+
+/* about us */
+.about h3{
+    margin-left: 0px;
+}
+.about-content {
+    padding: 20px 36px 0 0%;
+}
+
+/* about us */
+/* question start */
+.free-content {
+    font-size: 16px;
+}
+.num-content p {
+    font-size: 14px;
+}
+.btn-qus {
+    font-size: 14px;
+    padding: 8px 10px;
+}
+/* qus end */
+/* footer start */
+.social{
+        margin: 20px 0;
+        text-align: center;
+}
+.social-one{
+    text-align: center;
+}
+/* footer end */
+
+/* reservation css */
+.reservation {
+    padding: 0 0 70px 0;
+}
+.reg-box {
+    padding: 30px 0;
+}
+.small-custom {
+    font-size: 11px !important;
+    margin-bottom: 16px !important;
+}
+
+
+/* reservation css */
+
+	}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* header start */
+    .header-logo {
+    width: 130px !important;
+    /* padding: 15px 20px; */
+}
+.menu ul li {
+    padding: 0px;
+}
+.menu ul li a {
+    font-weight: 500;
+}
+/* header ened */
+/* categories start */
+.btn-vehicale {
+    width: 140px;
+    height: 60px;
+
+}
+/* categories end */
+/* question start */
+.free-content {
+    font-size: 20px;
+}
+.num-content p {
+    font-size: 20px;
+}
+.btn-qus {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+/* qus end */
+   
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+/* hederr start */
+.menu ul li {
+    padding: 0 10px;
+}
+/* hederr end */
+
+
+}
