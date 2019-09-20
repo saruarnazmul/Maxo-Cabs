@@ -12,21 +12,27 @@
     padding: 5px 0;
 }
    /* header End */
-     .common h3 {
+   .common {
+    padding: 5px 0px;
+}
+.common-p h3{
+    margin:  0;
+}
+.common h3 {
     font-size: 18px;
     line-height: 0px;
 
 }
-.card{
-    margin: 15px 0;
-}
+
 /* banner */
 .form-control {
     padding: 0px;
 }
 .banner {
-    padding: 20px 0;
-    background-color: #E5E5E5;
+    padding: 0;
+}
+ .large-screen{  
+    margin-top: 25px;
 }
 
 
@@ -124,8 +130,11 @@
     margin-left: -15px;
 }
 /* reservation */
+.card3{
+        margin: 0 30px;
+}
 .p_res{
-    padding: 30px 40px;
+    padding: 30px 0px;
 }
 
 /* reservation */
@@ -152,12 +161,6 @@
 
 }
    /* brading start */
-   /* card  */
-.large-screen{
-    margin: 30px 0;
-}
-
-   /* card  */
 .content {
     text-align: center;
     margin-top: 20px;
@@ -168,11 +171,11 @@
 .menu ul li a i:hover{
     color: #fff !important;
 }
-.card-body {
-    padding: 30px 113px;
+ .large-screen{  
+    margin: 0 17%;
+    margin-top: 25px;
 }
 /* brading end */
-
    /* categories start */
 .btn-vehicale {
     width: 135px;
@@ -270,6 +273,10 @@
  .card-body{
     width: 100% !important;
  }
+ .large-screen{
+        margin: 0 25% !important;
+    margin-top: 15px !important;
+}
  /* description start */
 
 /* branding start */
@@ -358,7 +365,6 @@
     position: absolute;
 }
 .large-screen{
-    position: absolute;
     margin: 0 60%;
     margin-top: 45px !important;
 }
@@ -393,6 +399,7 @@
 /* qus end */
 
 /* reservation */
+
 .p_res{
     padding: 72px 0;
 }
@@ -420,7 +427,6 @@
 
 /* slider */
 .large-screen{
-    position: absolute;
     margin: 0 60%;
     margin-top: 50px !important;
 }

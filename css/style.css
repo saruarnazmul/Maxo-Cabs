@@ -82,7 +82,7 @@
 
  }
  .carousel-item2{
-    background-image: url('../images/bannr.jpg');
+        background-image: url('../images/bannr.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -100,7 +100,8 @@
     border-radius: 50%;
  }
  .carousel-indicators-custom .active {
-    background-color: #e9ec07 !important;
+    background-color: #f5b911 !important;
+ /*    border: 1px solid #e49a12; */
 }
 
 .carousel-indicators-custom{
@@ -154,6 +155,9 @@
     font-weight: 700;
     text-transform: capitalize;
     margin-left: 33px;
+}
+.common-p h3{
+    margin:  0 15px;
 }
 .custom-checkbox{
     width: 20px;
