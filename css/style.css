@@ -125,6 +125,7 @@
     background-color: #f0c540;
     padding: 30px 32px;
     font-family: 'Montserrat', sans-serif;
+    width: 100%;
 }
 .card h4{
     text-transform: uppercase;
