@@ -65,25 +65,52 @@
  /* header end */
 
  /* banner start */
+ .carousel-item{
+    background-image: url('../images/bann.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+
+ }
+ .carousel-item1{
+    background-image: url('../images/bannr.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+
+ }
+ .carousel-item2{
+    background-image: url('../images/bannr.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+ }
+.slider-img{
+ padding:  190px 0;
+}
+.p_0{
+    padding:0;
+}
  .caro-button{
     width: 15px !important;
     height: 15px !important;
     border-radius: 50%;
  }
  .carousel-indicators-custom .active {
-    background-color: #f5b911 !important;
- /*    border: 1px solid #e49a12; */
+    background-color: #e9ec07 !important;
 }
 
 .carousel-indicators-custom{
-    margin: -59px 0 !important;
+    margin: 20px 0 !important;
 }
 .carousel-indicators-custom li{
-    background-color: #00030a !important;
+    background-color: #fff !important;
 }
 /* form control start */
 .banner{
-    padding: 80px;
     background-color: #E5E5E5;
 }
 .btn-form{

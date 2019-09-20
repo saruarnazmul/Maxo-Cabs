@@ -121,7 +121,12 @@
 .small-custom1{
     margin-left: -15px;
 }
+/* reservation */
+.p_res{
+    padding: 30px 40px;
+}
 
+/* reservation */
 /* reservation css */
 }
 
@@ -223,7 +228,12 @@
 .qus-button1, .small-custom1 {
     margin-left: -60px;
 }
+/* reservation */
+.p_res{
+    padding: 60px 40px;
+}
 
+/* reservation */
 /* reservation css */
 
 }
@@ -314,7 +324,12 @@
     font-size: 11px !important;
     margin-bottom: 16px !important;
 }
+/* reservation */
+.p_res{
+    padding: 60px 40px;
+}
 
+/* reservation */
 
 /* reservation css */
 
@@ -323,9 +338,17 @@
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) { 
     /* header start */
-    .header-logo {
-    width: 130px !important;
-    /* padding: 15px 20px; */
+.header-logo {
+    width: 170px !important;
+    padding: 0;
+    margin-left: -35px;
+    margin-top: -25px;
+    position: absolute;
+}
+.large-screen{
+    position: absolute;
+    margin: 0 60%;
+    margin-top: 45px !important;
 }
 .menu ul li {
     padding: 0px;
@@ -334,6 +357,9 @@
     font-weight: 500;
 }
 /* header ened */
+/* slider */
+
+/* slider */
 /* categories start */
 .btn-vehicale {
     width: 140px;
@@ -353,6 +379,13 @@
     padding: 10px 20px;
 }
 /* qus end */
+
+/* reservation */
+.p_res{
+    padding: 72px 0;
+}
+
+/* reservation */
    
  }
 
@@ -360,10 +393,37 @@
 @media (min-width: 1200px) {
 	
 /* hederr start */
+.header-logo {
+    width: 220px !important;
+    border-radius: 20px;
+    padding: 0;
+    margin-left: -60px;
+    margin-top: -32px;
+    position: absolute;
+}
 .menu ul li {
     padding: 0 10px;
 }
 /* hederr end */
 
+/* slider */
+.large-screen{
+    position: absolute;
+    margin: 0 60%;
+    margin-top: 50px !important;
+}
+.card-body {
+    padding: 30px 65px;
+}
 
+/* slider */
+
+/* reservation */
+.p_res{
+    padding: 72px 0;
+}
+
+
+
+/* reservation */
 }
