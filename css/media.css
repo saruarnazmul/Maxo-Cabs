@@ -17,7 +17,9 @@
     line-height: 0px;
 
 }
-
+.card{
+    margin: 15px 0;
+}
 /* banner */
 .form-control {
     padding: 0px;
@@ -150,6 +152,12 @@
 
 }
    /* brading start */
+   /* card  */
+.large-screen{
+    margin: 30px 0;
+}
+
+   /* card  */
 .content {
     text-align: center;
     margin-top: 20px;
@@ -160,7 +168,11 @@
 .menu ul li a i:hover{
     color: #fff !important;
 }
+.card-body {
+    padding: 30px 113px;
+}
 /* brading end */
+
    /* categories start */
 .btn-vehicale {
     width: 135px;
